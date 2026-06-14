@@ -1,5 +1,5 @@
 """
-chat_app.py
+app.py
 -----------
 A minimal chat UI built with Gradio whose backend simply forwards the
 conversation to an LLM "chat completion" endpoint and streams the reply
